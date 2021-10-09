@@ -1,12 +1,13 @@
 {
   "name": "mailazy-api",
   "description": "Unofficial Mailazy NodeJs SDK Client with some internal boost (faster & less-buggy)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Angrymouse & Mailazy",
   "bugs": {
     "url": "https://github.com/angrymouse/mailazy-api/issues"
   },
-  "contributors": [{
+  "contributors": [
+    {
       "name": "Mailazy",
       "email": "support@mailazy.com",
       "github": "mailazy"
@@ -41,7 +42,9 @@
     "node": ">= 10.10"
   },
   "homepage": "https://mailazy.com",
-  "keywords": ["email", "mail",
+  "keywords": [
+    "email",
+    "mail",
     "mailazy",
     "sdk"
   ],
