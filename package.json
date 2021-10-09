@@ -1,7 +1,7 @@
 {
   "name": "mailazy-api",
   "description": "Unofficial Mailazy NodeJs SDK Client with some internal boost (faster & less-buggy)",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Angrymouse & Mailazy",
   "bugs": {
     "url": "https://github.com/angrymouse/mailazy-api/issues"
